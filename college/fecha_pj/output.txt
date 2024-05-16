@@ -1,0 +1,11 @@
+   
+Nombre: Olivier
+Apellido: Paspuel
+
+NRC: 14543
+
+Fecha de hoy: 10/05/2021
+
+Días entre mi nacimiento y el primero de enero de 2020: 5619
+Se van a incrementar 50 días al primero de enero de 2020
+Meses despues de añadir 50 días: 2

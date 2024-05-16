@@ -1,0 +1,27 @@
+Tipos Abstractos de Datos (TAD)
+
+Abstracción: simplificación de la realidad;
+
+Dato: Abstracción de información en terminos representables y manipulables (variables);
+
+	Edad: 25 --->  age = 25;
+
+Abstract Data type (ADT)
+	Boolean;
+
+Ciclo de vida de un TAD
+	Especificación (diseño) -> Implementación -> Uso;
+
+ADT
+  - Nombre
+  - Dominio
+  - Operaciones
+
+Array, pile, cola, linked list, tree, binary tree, binary search tree, balanced binary search tree, priority queue, hash table, graph, sorting, searching;
+
+insertar en indice especifico
+insertar elemnto despues de un indice especifico
+insertar un elemento antes de un indice
+eliminar
+buscar
+
