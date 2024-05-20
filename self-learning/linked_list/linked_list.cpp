@@ -37,3 +37,5 @@ int main()
     tmp1->link = temp;
     printf("last element: %d\n", tmp1->link->data);
 }
+
+
