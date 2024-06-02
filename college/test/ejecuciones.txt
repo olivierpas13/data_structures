@@ -1,0 +1,30 @@
+Ejecución pregunta 3:
+
+Olivier Paspuel - Pregunta 3
+Se crea la lista con elementos 10 y 5 de la siguiente manera: 
+10
+5
+Se añade el elemento 8 de manera ordenada
+10
+8
+5
+Test case: añadir un numero mayor, en este caso el 11
+11
+10
+8
+5
+
+Ejecución pregunta 4:
+
+Olivier Paspuel - Pregunta 4
+Primero, se crea una lista de nombres, la lista es la siguiente: 
+Vier
+Charles
+Pam
+Pam
+Fred
+Vier
+Vier
+Vier
+Ahora se trata de contar cuantas veces el nombre Vier se repite en la lista
+Cantidad de veces que se repite Vier: 4

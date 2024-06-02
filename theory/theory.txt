@@ -1,0 +1,6 @@
+define linked lists, double linked, circular;
+
+2.2 Listas doblemente enlazadas
+nodes have two references, next n before;
+
+
