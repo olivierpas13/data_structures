@@ -1,0 +1,19 @@
+Se inserta el elemento 10 con prioridad 0
+Se inserta el elemento 50 con prioridad 0
+Se inserta el elemento 20 con prioridad 1
+Se inserta el elemento 30 con prioridad 2
+Prioridad 0: 
+10 50 
+Prioridad 1: 
+20 
+Prioridad 2: 
+30 
+Prioridad 3: 
+
+Prioridad 4: 
+
+
+Lista de procesos de prioridad 0
+10 50 
+Primer elemento desencolado
+10

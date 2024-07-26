@@ -1,0 +1,7 @@
+Olivier Paspuel
+Transformación de una expresión infija a postfija y prefija
+
+La cadena infija es (A+B)/(C-D)-(E*F)
+La cadena postfija es: AB+CD-/EF*-
+La cadena infija es: (A+B)*(C+D)
+La cadena prefija es: *+AB+CD
